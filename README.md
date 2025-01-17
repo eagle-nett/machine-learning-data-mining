@@ -1,4 +1,5 @@
 # Học máy và Khai phá dữ liệu
+<a href="https://example.com" target="_blank">(https://users.soict.hust.edu.vn/khoattq/ml-dm-course/)</a>
 
 ## 1. THÔNG TIN CHUNG
 - **Tên học phần**: Nhập môn học máy và khai phá dữ liệu *(Introduction to Machine Learning and Data Mining)*  
