@@ -1,8 +1,8 @@
 # Học máy và Khai phá dữ liệu
 
 ## 1. THÔNG TIN CHUNG
-- **Tên học phần**: Nhập môn học máy và khai phá dữ liệu *(Introduction to Machine Learning and Data Mining)*  
-- **Mã lớp kỳ**: 2023.2  
+- **Tên tài liệu**: Nhập môn học máy và khai phá dữ liệu *(Introduction to Machine Learning and Data Mining)*  <br>
+- **Mã lớp kỳ**: 2024.2  ITC Dat <br>
 - [**147828 – IT3191E**](#) *(xem trong mục riêng để có thêm tài liệu)*  
 
 ---
@@ -25,8 +25,8 @@ Học phần này nhằm cung cấp cho sinh viên các kiến thức cơ bản 
 | 4       | **Phân cụm**<br>- Giới thiệu về phân cụm<br>- Tiêu chuẩn đánh giá chất lượng<br>- Phân cụm bằng K-means | [PDF](https://users.soict.hust.edu.vn/khoattq/ml-dm-course/L4-Kmeans.pdf)            |          | [YouTube](https://youtu.be/vykd_CdGOPI)           |  |
 | 5       | **Phân cụm phân cấp**                                                                       |                       |      |           |              Chưa có              |
 | 6       | **Học dựa trên láng giềng (KNN)**                                                           | [PDF](https://users.soict.hust.edu.vn/khoattq/ml-dm-course/L6-KNN.pdf)                    |          | [YouTube](https://youtu.be/gHavNvEZyf4)           |     |
-| 7       | **Cây quyết định và rừng ngẫu nhiên**       | [PDF](https://users.soict.hust.edu.vn/khoattq/ml-dm-course/L7-Random-forests.pdf)            |    <a href="https://users.soict.hust.edu.vn/khoattq/ml-dm-course/ML-code.zip">Link</a>      | [Phần1](https://youtu.be/7P6yYhcSuPc)<br><br>[Phần2](https://youtu.be/BmoNAptI1nI)          |               |
-| 8       | **Máy Vecto hỗ trợ (SVM)**                                                                       | [PDF](https://users.soict.hust.edu.vn/khoattq/ml-dm-course/L8-SVM.pdf)                      | <a href="https://users.soict.hust.edu.vn/khoattq/ml-dm-course/ML-code.zip">Link</a>| [Phần1](https://youtu.be/plSN3tCNllo)<br><br>[Phần2](https://youtu.be/e4Y7hTRHGHA)           |                            |
+| 7       | **Cây quyết định và rừng ngẫu nhiên**       | [PDF](https://users.soict.hust.edu.vn/khoattq/ml-dm-course/L7-Random-forests.pdf)            |    <a href="https://users.soict.hust.edu.vn/khoattq/ml-dm-course/ML-code.zip">Link</a>      | [Phần1](https://youtu.be/7P6yYhcSuPc)<br>[Phần2](https://youtu.be/BmoNAptI1nI)          |               |
+| 8       | **Máy Vecto hỗ trợ (SVM)**                                                                       | [PDF](https://users.soict.hust.edu.vn/khoattq/ml-dm-course/L8-SVM.pdf)                      | <a href="https://users.soict.hust.edu.vn/khoattq/ml-dm-course/ML-code.zip">Link</a>| [Phần1](https://youtu.be/plSN3tCNllo)<br>[Phần2](https://youtu.be/e4Y7hTRHGHA)           |                            |
 | 9       | **Đánh giá hiệu quả của mô hình**                         | [PDF](https://users.soict.hust.edu.vn/khoattq/ml-dm-course/L9-Model-assessment.pdf)                    |   <a href="https://users.soict.hust.edu.vn/khoattq/ml-dm-course/ML-code.zip">Link</a>       | [Phần1](https://youtu.be/ujDDwR2GZZM)<br>[Phần2](https://youtu.be/tvt-2nOAYH4)            |              |
 | 10       | **Mạng notron nhân tạo** | [PDF](https://users.soict.hust.edu.vn/khoattq/ml-dm-course/L10-Neural-network.pdf)            |          | [Phần1](https://youtu.be/DjINWdgfZiE)<br>[Phần2](https://youtu.be/xI6qOuffvDk)          |  Cơ bản  |
 | 11       |**Mô hình xác suất**<br>- Giới thiệu<br>- Học dựa trên MLE và MAP<br>- Phương pháp Naive Bayes<br>- Học bằng thuật toán EM   | [Phần 1: PDF](https://users.soict.hust.edu.vn/khoattq/ml-dm-course/L11.1-prob-models.pdf) <br> <br> [Phần 2: PDF](https://users.soict.hust.edu.vn/khoattq/ml-dm-course/L11.2-prob-models-em.pdf)                     |        | [YouTube](https://youtu.be/qQHdOwRjHCE)<br><br>[YouTube](https://youtu.be/t4y-oPXJ2yU)<br><br>[YouTube](https://youtu.be/h60yXLPFBZE)<br><br>[YouTube](https://youtu.be/siNwrMIrbec)          |             Cơ bản <br> Khá chuyên sâu               |
@@ -35,7 +35,7 @@ Học phần này nhằm cung cấp cho sinh viên các kiến thức cơ bản 
 ---
 Tiến Đạt ITC from Vietnamese
 
-## Xem đầy đủ trên Youtube: https://www.youtube.com/watch?v=jc1wo_8VA1w&list=PLaKukjQCR56ZRh2cAkweftiZCF2sTg11_&index=1
+#### Xem đầy đủ trên Youtube: https://www.youtube.com/watch?v=jc1wo_8VA1w&list=PLaKukjQCR56ZRh2cAkweftiZCF2sTg11_&index=1
 
 
 
