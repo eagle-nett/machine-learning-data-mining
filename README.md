@@ -1,5 +1,5 @@
 # Học máy và Khai phá dữ liệu
-<a href="https://example.com" target="_blank">(https://users.soict.hust.edu.vn/khoattq/ml-dm-course/)</a>
+<a href="https://example.com" target="_blank">https://users.soict.hust.edu.vn/khoattq/ml-dm-course/</a>
 
 ## 1. THÔNG TIN CHUNG
 - **Tên học phần**: Nhập môn học máy và khai phá dữ liệu *(Introduction to Machine Learning and Data Mining)*  
@@ -37,3 +37,20 @@ Học phần này nhằm cung cấp cho sinh viên các kiến thức cơ bản 
 Sau khi viết file `README.md`, bạn thêm file này vào repository và commit như bình thường. GitHub sẽ tự động hiển thị nội dung Markdown trên giao diện repository của bạn.
 
 Nếu cần hỗ trợ thêm, hãy cho tôi biết! 😊
+Xem đầy đủ trên Youtube: https://www.youtube.com/watch?v=jc1wo_8VA1w&list=PLaKukjQCR56ZRh2cAkweftiZCF2sTg11_&index=1
+
+ 
+
+## Tài liệu đọc: IT3190-Tai-lieu-doc.pdf
+
+ 
+
+### Sách tham khảo
+
+[1] Tom Mitchell. Machine Learning. McGraw-Hill, 1997.
+
+[2] Ian Goodfellow, Yoshua Bengio, and Aaron Courville. Deep Learning. MIT press, 2016.
+
+[3] Jiawei Han, Micheline Kamber, Jian Pei. Data Mining: Concepts and Techniques (3rd Edition). Morgan Kaufmann, 2011.
+
+[4] Trevor Hastie,‎ Robert Tibshirani,‎ Jerome Friedman. The Elements of Statistical Learning: Data Mining, Inference, and Prediction (12th Edition). Springer, 2017.
