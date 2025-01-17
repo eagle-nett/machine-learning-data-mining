@@ -21,7 +21,7 @@ Học phần này nhằm cung cấp cho sinh viên các kiến thức cơ bản 
 |---------|---------------------------------------------------------------------------------------------------------|---------------------|----------|----------------------------------------------------|----------------------------|
 | 1       | **Giới thiệu chung**<br>- Giới thiệu về Học máy và khai phá dữ liệu<br>- Học máy và các bài toán học<br>- Vài công cụ và thư viện hỗ trợ | [PDF](https://users.soict.hust.edu.vn/khoattq/ml-dm-course/L1-Intro.pdf)            |          | [YouTube](https://youtu.be/jc1wo_8VA1w)           |  |
 | +       | **Cơ sở toán học cho Học máy**                                                                           | [PDF](https://users.soict.hust.edu.vn/khoattq/ml-dm-course/Math-for-ML.pdf)            |          |                                                    |          Nhớ lại vài kiến thức cần thiết                  |
-| 2       | **Thu thập và tiền xử lý dữ liệu**                                                                       |                     | <a href="ML-code.zip">Link</a>| [YouTube](https://youtu.be/tVMYB7rIP-k)           |                            |
+| 2       | **Thu thập và tiền xử lý dữ liệu**                                                                       |                     | <a href="https://users.soict.hust.edu.vn/khoattq/ml-dm-course/ML-code.zip">Link</a>| [YouTube](https://youtu.be/tVMYB7rIP-k)           |                            |
 | 3       | **Hồi qui**                                                                                              |                     |          | [YouTube](https://youtu.be/3dC-_GAs2zI)           | Bao gồm Ridge và LASSO    |
 
 ---
